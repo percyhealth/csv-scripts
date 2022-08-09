@@ -1,0 +1,376 @@
+id,section,instructions,question,response_type,answer_text,answer_values,answer_scores
+1,General health,NA,"In general, would you say your health is:",mc,"Excellent
+Very good
+Good
+Fair
+Poor","1
+2
+3
+4
+5","100
+75
+50
+25
+0"
+2,Health change,NA,"Compared to one year ago, how would you rate your health in general now?",mc,"Much better now than one year ago
+Somewhat better now than one year ago
+About the same
+Somewhat worse now than one year ago
+Much worse now than one year ago","1
+2
+3
+4
+5","100
+75
+50
+25
+0"
+3,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?","Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports",mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+4,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?","Moderate activities, such as moving a table. pushing a vacuum cleaner, bowling, or playing golf",mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+5,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",Lifting or carrying groceries,mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+6,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",Climbing several flights of stairs,mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+7,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",Climbing one flight of stairs,mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+8,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?","Bending, kneeling, or stooping",mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+9,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",Walking more than a mile,mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+10,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",Walking several blocks,mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+11,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",Walking one block,mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+12,Physical functioning,"The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",Bathing or dressing yourself,mc,"Yes, limited a lot
+Yes, limited a little
+No, not limited at all","1
+2
+3","0
+50
+100"
+13,Role limitations due to physical health,"During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health? ",Cut down the amount of time you spent on work or other activities,mc,"Yes
+No","1
+2","0
+100"
+14,Role limitations due to physical health,"During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health? ",Accomplished less than you would like,mc,"Yes
+No","1
+2","0
+100"
+15,Role limitations due to physical health,"During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health? ",Were limited in the kind of work or other activities,mc,"Yes
+No","1
+2","0
+100"
+16,Role limitations due to physical health,"During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health? ","Had difficulty performing the work or other activities (for example, it took extra effort)",mc,"Yes
+No","1
+2","0
+100"
+17,Role limitations due to emotional problems,"During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)?",Cut down the amount of time you spent on work or other activities,mc,"Yes
+No","1
+2","0
+100"
+18,Role limitations due to emotional problems,"During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)?",Accomplished less than you would like,mc,"Yes
+No","1
+2","0
+100"
+19,Role limitations due to emotional problems,"During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)?",Didn't do work or other activities as carefully as usual,mc,"Yes
+No","1
+2","0
+100"
+20,Social functioning,NA,"During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?",mc,"Not at all
+Slightly
+Moderately
+Quite a bit
+Extremely","1
+2
+3
+4
+5","100
+75
+50
+25
+0"
+21,Pain,NA,How much bodily pain have you had during the past 4 weeks?,mc,"None
+Very mild
+Mild
+Moderate
+Severe
+Very severe","1
+2
+3
+4
+5
+6","100
+80
+60
+40
+20
+0"
+22,Pain,NA,"During the past 4 weeks, how much did pain interfere with your normal work (including both work outside the home and housework)?",mc,"Not at all
+Slightly
+Moderately
+Quite a bit
+Extremely","1
+2
+3
+4
+5","100
+75
+50
+25
+0"
+23,Energy/fatigue,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Did you feel full of pep?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","100
+80
+60
+40
+20
+0"
+24,Emotional well-being,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Have you been a very nervous person?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","0
+20
+40
+60
+80
+100"
+25,Emotional well-being,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Have you felt so down in the dumps that nothing could cheer you up?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","0
+20
+40
+60
+80
+100"
+26,Emotional well-being,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Have you felt calm and peaceful?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","100
+80
+60
+40
+20
+0"
+27,Energy/fatigue,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Did you have a lot of energy?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","100
+80
+60
+40
+20
+0"
+28,Emotional well-being,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Have you felt downhearted and blue?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","0
+20
+40
+60
+80
+100"
+29,Energy/fatigue,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Did you feel worn out?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","0
+20
+40
+60
+80
+100"
+30,Emotional well-being,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Have you been a happy person?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","100
+80
+60
+40
+20
+0"
+31,Energy/fatigue,"These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",Did you feel tired?,mc,"All of the time
+Most of the time
+A good bit of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5
+6","0
+20
+40
+60
+80
+100"
+32,Social functioning,NA,"During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities (like visiting with friends, relatives, etc.)?",mc,"All of the time
+Most of the time
+Some of the time
+A little of the time
+None of the time","1
+2
+3
+4
+5","0
+25
+50
+75
+100"
+33,General health,How TRUE or FALSE is each of the following statements for you.,I seem to get sick a little easier than other people,mc,"Definitely true
+Mostly true
+Don't know
+Mostly false
+Definitely false","1
+2
+3
+4
+5","0
+25
+50
+75
+100"
+34,General health,How TRUE or FALSE is each of the following statements for you.,I am as healthy as anybody I know,mc,"Definitely true
+Mostly true
+Don't know
+Mostly false
+Definitely false","1
+2
+3
+4
+5","100
+75
+50
+25
+0"
+35,General health,How TRUE or FALSE is each of the following statements for you.,I expect my health to get worse,mc,"Definitely true
+Mostly true
+Don't know
+Mostly false
+Definitely false","1
+2
+3
+4
+5","0
+25
+50
+75
+100"
+36,General health,How TRUE or FALSE is each of the following statements for you.,My health is excellent,mc,"Definitely true
+Mostly true
+Don't know
+Mostly false
+Definitely false","1
+2
+3
+4
+5","100
+75
+50
+25
+0"

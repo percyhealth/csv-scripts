@@ -1,0 +1,145 @@
+Measure,CODE,Question,Answer,Score
+Physical functioning,phys_func,3,1,0.00
+Physical functioning,phys_func,3,2,5.00
+Physical functioning,phys_func,3,3,10.00
+Physical functioning,phys_func,4,1,0.00
+Physical functioning,phys_func,4,2,5.00
+Physical functioning,phys_func,4,3,10.00
+Physical functioning,phys_func,5,1,0.00
+Physical functioning,phys_func,5,2,5.00
+Physical functioning,phys_func,5,3,10.00
+Physical functioning,phys_func,6,1,0.00
+Physical functioning,phys_func,6,2,5.00
+Physical functioning,phys_func,6,3,10.00
+Physical functioning,phys_func,7,1,0.00
+Physical functioning,phys_func,7,2,5.00
+Physical functioning,phys_func,7,3,10.00
+Physical functioning,phys_func,8,1,0.00
+Physical functioning,phys_func,8,2,5.00
+Physical functioning,phys_func,8,3,10.00
+Physical functioning,phys_func,9,1,0.00
+Physical functioning,phys_func,9,2,5.00
+Physical functioning,phys_func,9,3,10.00
+Physical functioning,phys_func,10,1,0.00
+Physical functioning,phys_func,10,2,5.00
+Physical functioning,phys_func,10,3,10.00
+Physical functioning,phys_func,11,1,0.00
+Physical functioning,phys_func,11,2,5.00
+Physical functioning,phys_func,11,3,10.00
+Physical functioning,phys_func,12,1,0.00
+Physical functioning,phys_func,12,2,5.00
+Physical functioning,phys_func,12,3,10.00
+Role limitations due to physical health,r_limit_phys,13,1,0.00
+Role limitations due to physical health,r_limit_phys,13,2,25.00
+Role limitations due to physical health,r_limit_phys,14,1,0.00
+Role limitations due to physical health,r_limit_phys,14,2,25.00
+Role limitations due to physical health,r_limit_phys,15,1,0.00
+Role limitations due to physical health,r_limit_phys,15,2,25.00
+Role limitations due to physical health,r_limit_phys,16,1,0.00
+Role limitations due to physical health,r_limit_phys,16,2,25.00
+Role limitations due to emotional problems,r_limit_emo,17,1,0.00
+Role limitations due to emotional problems,r_limit_emo,17,2,33.33
+Role limitations due to emotional problems,r_limit_emo,18,1,0.00
+Role limitations due to emotional problems,r_limit_emo,18,2,33.33
+Role limitations due to emotional problems,r_limit_emo,19,1,0.00
+Role limitations due to emotional problems,r_limit_emo,19,2,33.33
+Energy/fatigue,energy_fatigue,23,1,25.00
+Energy/fatigue,energy_fatigue,23,2,20.00
+Energy/fatigue,energy_fatigue,23,3,15.00
+Energy/fatigue,energy_fatigue,23,4,10.00
+Energy/fatigue,energy_fatigue,23,5,5.00
+Energy/fatigue,energy_fatigue,23,6,0.00
+Energy/fatigue,energy_fatigue,27,1,25.00
+Energy/fatigue,energy_fatigue,27,2,20.00
+Energy/fatigue,energy_fatigue,27,3,15.00
+Energy/fatigue,energy_fatigue,27,4,10.00
+Energy/fatigue,energy_fatigue,27,5,5.00
+Energy/fatigue,energy_fatigue,27,6,0.00
+Energy/fatigue,energy_fatigue,29,1,0.00
+Energy/fatigue,energy_fatigue,29,2,5.00
+Energy/fatigue,energy_fatigue,29,3,10.00
+Energy/fatigue,energy_fatigue,29,4,15.00
+Energy/fatigue,energy_fatigue,29,5,20.00
+Energy/fatigue,energy_fatigue,29,6,25.00
+Energy/fatigue,energy_fatigue,31,1,0.00
+Energy/fatigue,energy_fatigue,31,2,5.00
+Energy/fatigue,energy_fatigue,31,3,10.00
+Energy/fatigue,energy_fatigue,31,4,15.00
+Energy/fatigue,energy_fatigue,31,5,20.00
+Energy/fatigue,energy_fatigue,31,6,25.00
+Emotional well-being,emo_wellbeing,24,1,0.00
+Emotional well-being,emo_wellbeing,24,2,4.00
+Emotional well-being,emo_wellbeing,24,3,8.00
+Emotional well-being,emo_wellbeing,24,4,12.00
+Emotional well-being,emo_wellbeing,24,5,16.00
+Emotional well-being,emo_wellbeing,24,6,20.00
+Emotional well-being,emo_wellbeing,25,1,0.00
+Emotional well-being,emo_wellbeing,25,2,4.00
+Emotional well-being,emo_wellbeing,25,3,8.00
+Emotional well-being,emo_wellbeing,25,4,12.00
+Emotional well-being,emo_wellbeing,25,5,16.00
+Emotional well-being,emo_wellbeing,25,6,20.00
+Emotional well-being,emo_wellbeing,26,1,20.00
+Emotional well-being,emo_wellbeing,26,2,16.00
+Emotional well-being,emo_wellbeing,26,3,12.00
+Emotional well-being,emo_wellbeing,26,4,8.00
+Emotional well-being,emo_wellbeing,26,5,4.00
+Emotional well-being,emo_wellbeing,26,6,0.00
+Emotional well-being,emo_wellbeing,28,1,0.00
+Emotional well-being,emo_wellbeing,28,2,4.00
+Emotional well-being,emo_wellbeing,28,3,8.00
+Emotional well-being,emo_wellbeing,28,4,12.00
+Emotional well-being,emo_wellbeing,28,5,16.00
+Emotional well-being,emo_wellbeing,28,6,20.00
+Emotional well-being,emo_wellbeing,30,1,20.00
+Emotional well-being,emo_wellbeing,30,2,16.00
+Emotional well-being,emo_wellbeing,30,3,12.00
+Emotional well-being,emo_wellbeing,30,4,8.00
+Emotional well-being,emo_wellbeing,30,5,4.00
+Emotional well-being,emo_wellbeing,30,6,0.00
+Social functioning,social_func,20,1,50.00
+Social functioning,social_func,20,2,37.50
+Social functioning,social_func,20,3,25.00
+Social functioning,social_func,20,4,12.50
+Social functioning,social_func,20,5,0.00
+Social functioning,social_func,32,1,0.00
+Social functioning,social_func,32,2,12.50
+Social functioning,social_func,32,3,25.00
+Social functioning,social_func,32,4,37.50
+Social functioning,social_func,32,5,50.00
+Pain,pain,21,1,50.00
+Pain,pain,21,2,40.00
+Pain,pain,21,3,30.00
+Pain,pain,21,4,20.00
+Pain,pain,21,5,10.00
+Pain,pain,21,6,0.00
+Pain,pain,22,1,50.00
+Pain,pain,22,2,37.50
+Pain,pain,22,3,25.00
+Pain,pain,22,4,12.50
+Pain,pain,22,5,0.00
+General health,general_health,1,1,20.00
+General health,general_health,1,2,15.00
+General health,general_health,1,3,10.00
+General health,general_health,1,4,5.00
+General health,general_health,1,5,0.00
+General health,general_health,33,1,0.00
+General health,general_health,33,2,5.00
+General health,general_health,33,3,10.00
+General health,general_health,33,4,15.00
+General health,general_health,33,5,20.00
+General health,general_health,34,1,20.00
+General health,general_health,34,2,15.00
+General health,general_health,34,3,10.00
+General health,general_health,34,4,5.00
+General health,general_health,34,5,0.00
+General health,general_health,35,1,0.00
+General health,general_health,35,2,5.00
+General health,general_health,35,3,10.00
+General health,general_health,35,4,15.00
+General health,general_health,35,5,20.00
+General health,general_health,36,1,20.00
+General health,general_health,36,2,15.00
+General health,general_health,36,3,10.00
+General health,general_health,36,4,5.00
+General health,general_health,36,5,0.00
