@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 
+# THIS FUNCTION IS DEPRECATED. SEE questionnaire_generator.py
 
 # https://stackoverflow.com/questions/944700/how-can-i-check-for-nan-values
 def isNaN(num):

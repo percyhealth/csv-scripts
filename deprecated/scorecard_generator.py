@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 
+# THIS FUNCTION IS DEPRECATED. SEE questionnaire_generator.py
 
 def scorecard_csv_to_json(csv_filename, json_filename):
     df = pd.read_csv(csv_filename)
