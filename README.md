@@ -1,6 +1,6 @@
 # csv-scripts
 
-python scripts to generate json document of a questionnaire, to be added to a Mongo database.
+Python scripts to generate JSON document of a questionnaire, to be added to a Mongo database.
 
 `questionnaire_generator.py`'s main function is
 `questionnaire_generator` which takes the following parameters:
