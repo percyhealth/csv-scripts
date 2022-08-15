@@ -67,5 +67,8 @@ def questionnaire_generator(csv_filename, title, author, standard_frequency, des
     outfile.close()
 
 
-questionnaire_generator('SF-12 - SF-12_questions-and-scores (1).csv', this_title, this_author, this_standard_frequency,
+questionnaire_generator('SF-12.csv', this_title, this_author, this_standard_frequency,
                         this_description)
+
+questionnaire_generator('SF-36.csv', "SF-36", "John Doe", "monthly",
+                        "a survey to measure quality of life")
