@@ -1,0 +1,650 @@
+{
+    "title": "SF-36",
+    "author": "John Doe",
+    "standard_frequency": "monthly",
+    "description": "a survey to measure quality of life",
+    "questions": {
+        "1": {
+            "instructions": null,
+            "question": "In general, would you say your health is:",
+            "response_type": "mc",
+            "responses": {
+                "5": "Excellent",
+                "4": "Very good",
+                "3": "Good",
+                "2": "Fair",
+                "1": "Poor"
+            }
+        },
+        "2": {
+            "instructions": null,
+            "question": "Compared to one year ago, how would you rate your health in general now?",
+            "response_type": "mc",
+            "responses": {
+                "5": "Much better now than one year ago",
+                "4": "Somewhat better now than one year ago",
+                "3": "About the same",
+                "2": "Somewhat worse now than one year ago",
+                "1": "Much worse now than one year ago"
+            }
+        },
+        "3": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "4": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Moderate activities, such as moving a table. pushing a vacuum cleaner, bowling, or playing golf",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "5": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Lifting or carrying groceries",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "6": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Climbing several flights of stairs",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "7": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Climbing one flight of stairs",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "8": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Bending, kneeling, or stooping",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "9": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Walking more than a mile",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "10": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Walking several blocks",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "11": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Walking one block",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "12": {
+            "instructions": "The following items are about activities you might do during a typical day. Does your health limit you in these activities? If so, how much?",
+            "question": "Bathing or dressing yourself",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes, limited a lot",
+                "2": "Yes, limited a little",
+                "3": "No, not limited at all"
+            }
+        },
+        "13": {
+            "instructions": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health? ",
+            "question": "Cut down the amount of time you spent on work or other activities",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "14": {
+            "instructions": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health? ",
+            "question": "Accomplished less than you would like",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "15": {
+            "instructions": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health? ",
+            "question": "Were limited in the kind of work or other activities",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "16": {
+            "instructions": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health? ",
+            "question": "Had difficulty performing the work or other activities (for example, it took extra effort)",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "17": {
+            "instructions": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)?",
+            "question": "Cut down the amount of time you spent on work or other activities",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "18": {
+            "instructions": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)?",
+            "question": "Accomplished less than you would like",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "19": {
+            "instructions": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)?",
+            "question": "Didn't do work or other activities as carefully as usual",
+            "response_type": "mc",
+            "responses": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "20": {
+            "instructions": null,
+            "question": "During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?",
+            "response_type": "mc",
+            "responses": {
+                "5": "Not at all",
+                "4": "Slightly",
+                "3": "Moderately",
+                "2": "Quite a bit",
+                "1": "Extremely"
+            }
+        },
+        "21": {
+            "instructions": null,
+            "question": "How much bodily pain have you had during the past 4 weeks?",
+            "response_type": "mc",
+            "responses": {
+                "6": "None",
+                "5": "Very mild",
+                "4": "Mild",
+                "3": "Moderate",
+                "2": "Severe",
+                "1": "Very severe"
+            }
+        },
+        "22": {
+            "instructions": null,
+            "question": "During the past 4 weeks, how much did pain interfere with your normal work (including both work outside the home and housework)?",
+            "response_type": "mc",
+            "responses": {
+                "5": "Not at all",
+                "4": "Slightly",
+                "3": "Moderately",
+                "2": "Quite a bit",
+                "1": "Extremely"
+            }
+        },
+        "23": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Did you feel full of pep?",
+            "response_type": "mc",
+            "responses": {
+                "6": "All of the time",
+                "5": "Most of the time",
+                "4": "A good bit of the time",
+                "3": "Some of the time",
+                "2": "A little of the time",
+                "1": "None of the time"
+            }
+        },
+        "24": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Have you been a very nervous person?",
+            "response_type": "mc",
+            "responses": {
+                "1": "All of the time",
+                "2": "Most of the time",
+                "3": "A good bit of the time",
+                "4": "Some of the time",
+                "5": "A little of the time",
+                "6": "None of the time"
+            }
+        },
+        "25": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Have you felt so down in the dumps that nothing could cheer you up?",
+            "response_type": "mc",
+            "responses": {
+                "1": "All of the time",
+                "2": "Most of the time",
+                "3": "A good bit of the time",
+                "4": "Some of the time",
+                "5": "A little of the time",
+                "6": "None of the time"
+            }
+        },
+        "26": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Have you felt calm and peaceful?",
+            "response_type": "mc",
+            "responses": {
+                "6": "All of the time",
+                "5": "Most of the time",
+                "4": "A good bit of the time",
+                "3": "Some of the time",
+                "2": "A little of the time",
+                "1": "None of the time"
+            }
+        },
+        "27": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Did you have a lot of energy?",
+            "response_type": "mc",
+            "responses": {
+                "6": "All of the time",
+                "5": "Most of the time",
+                "4": "A good bit of the time",
+                "3": "Some of the time",
+                "2": "A little of the time",
+                "1": "None of the time"
+            }
+        },
+        "28": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Have you felt downhearted and blue?",
+            "response_type": "mc",
+            "responses": {
+                "1": "All of the time",
+                "2": "Most of the time",
+                "3": "A good bit of the time",
+                "4": "Some of the time",
+                "5": "A little of the time",
+                "6": "None of the time"
+            }
+        },
+        "29": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Did you feel worn out?",
+            "response_type": "mc",
+            "responses": {
+                "1": "All of the time",
+                "2": "Most of the time",
+                "3": "A good bit of the time",
+                "4": "Some of the time",
+                "5": "A little of the time",
+                "6": "None of the time"
+            }
+        },
+        "30": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Have you been a happy person?",
+            "response_type": "mc",
+            "responses": {
+                "6": "All of the time",
+                "5": "Most of the time",
+                "4": "A good bit of the time",
+                "3": "Some of the time",
+                "2": "A little of the time",
+                "1": "None of the time"
+            }
+        },
+        "31": {
+            "instructions": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling.",
+            "question": "Did you feel tired?",
+            "response_type": "mc",
+            "responses": {
+                "1": "All of the time",
+                "2": "Most of the time",
+                "3": "A good bit of the time",
+                "4": "Some of the time",
+                "5": "A little of the time",
+                "6": "None of the time"
+            }
+        },
+        "32": {
+            "instructions": null,
+            "question": "During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities (like visiting with friends, relatives, etc.)?",
+            "response_type": "mc",
+            "responses": {
+                "1": "All of the time",
+                "2": "Most of the time",
+                "3": "Some of the time",
+                "4": "A little of the time",
+                "5": "None of the time"
+            }
+        },
+        "33": {
+            "instructions": "How TRUE or FALSE is each of the following statements for you.",
+            "question": "I seem to get sick a little easier than other people",
+            "response_type": "mc",
+            "responses": {
+                "1": "Definitely true",
+                "2": "Mostly true",
+                "3": "Don't know",
+                "4": "Mostly false",
+                "5": "Definitely false"
+            }
+        },
+        "34": {
+            "instructions": "How TRUE or FALSE is each of the following statements for you.",
+            "question": "I am as healthy as anybody I know",
+            "response_type": "mc",
+            "responses": {
+                "5": "Definitely true",
+                "4": "Mostly true",
+                "3": "Don't know",
+                "2": "Mostly false",
+                "1": "Definitely false"
+            }
+        },
+        "35": {
+            "instructions": "How TRUE or FALSE is each of the following statements for you.",
+            "question": "I expect my health to get worse",
+            "response_type": "mc",
+            "responses": {
+                "1": "Definitely true",
+                "2": "Mostly true",
+                "3": "Don't know",
+                "4": "Mostly false",
+                "5": "Definitely false"
+            }
+        },
+        "36": {
+            "instructions": "How TRUE or FALSE is each of the following statements for you.",
+            "question": "My health is excellent",
+            "response_type": "mc",
+            "responses": {
+                "5": "Definitely true",
+                "4": "Mostly true",
+                "3": "Don't know",
+                "2": "Mostly false",
+                "1": "Definitely false"
+            }
+        }
+    },
+    "scoring_schema": {
+        "GEN_HEALTH": {
+            "1": {
+                "5": 20.0,
+                "4": 15.0,
+                "3": 10.0,
+                "2": 5.0,
+                "1": 0.0
+            },
+            "33": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0,
+                "4": 15.0,
+                "5": 20.0
+            },
+            "34": {
+                "5": 20.0,
+                "4": 15.0,
+                "3": 10.0,
+                "2": 5.0,
+                "1": 0.0
+            },
+            "35": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0,
+                "4": 15.0,
+                "5": 20.0
+            },
+            "36": {
+                "5": 20.0,
+                "4": 15.0,
+                "3": 10.0,
+                "2": 5.0,
+                "1": 0.0
+            }
+        },
+        "CHANGE_HEALTH": {
+            "2": {
+                "5": 100.0,
+                "4": 75.0,
+                "3": 50.0,
+                "2": 25.0,
+                "1": 0.0
+            }
+        },
+        "PHYS_FUNC": {
+            "3": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "4": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "5": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "6": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "7": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "8": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "9": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "10": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "11": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            },
+            "12": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0
+            }
+        },
+        "PHYS_ROLE": {
+            "13": {
+                "1": 0.0,
+                "2": 25.0
+            },
+            "14": {
+                "1": 0.0,
+                "2": 25.0
+            },
+            "15": {
+                "1": 0.0,
+                "2": 25.0
+            },
+            "16": {
+                "1": 0.0,
+                "2": 25.0
+            }
+        },
+        "EMOT_ROLE": {
+            "17": {
+                "1": 0.0,
+                "2": 33.333
+            },
+            "18": {
+                "1": 0.0,
+                "2": 33.333
+            },
+            "19": {
+                "1": 0.0,
+                "2": 33.333
+            }
+        },
+        "SOC_FUNC": {
+            "20": {
+                "5": 50.0,
+                "4": 37.5,
+                "3": 25.0,
+                "2": 12.5,
+                "1": 0.0
+            },
+            "32": {
+                "1": 0.0,
+                "2": 12.5,
+                "3": 25.0,
+                "4": 37.5,
+                "5": 50.0
+            }
+        },
+        "PAIN": {
+            "21": {
+                "6": 50.0,
+                "5": 40.0,
+                "4": 30.0,
+                "3": 20.0,
+                "2": 10.0,
+                "1": 0.0
+            },
+            "22": {
+                "5": 50.0,
+                "4": 37.5,
+                "3": 25.0,
+                "2": 12.5,
+                "1": 0.0
+            }
+        },
+        "ENERGY": {
+            "23": {
+                "6": 25.0,
+                "5": 20.0,
+                "4": 15.0,
+                "3": 10.0,
+                "2": 5.0,
+                "1": 0.0
+            },
+            "27": {
+                "6": 25.0,
+                "5": 20.0,
+                "4": 15.0,
+                "3": 10.0,
+                "2": 5.0,
+                "1": 0.0
+            },
+            "29": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0,
+                "4": 15.0,
+                "5": 20.0,
+                "6": 25.0
+            },
+            "31": {
+                "1": 0.0,
+                "2": 5.0,
+                "3": 10.0,
+                "4": 15.0,
+                "5": 20.0,
+                "6": 25.0
+            }
+        },
+        "EMOT_HEALTH": {
+            "24": {
+                "1": 0.0,
+                "2": 4.0,
+                "3": 8.0,
+                "4": 12.0,
+                "5": 16.0,
+                "6": 20.0
+            },
+            "25": {
+                "1": 0.0,
+                "2": 4.0,
+                "3": 8.0,
+                "4": 12.0,
+                "5": 16.0,
+                "6": 20.0
+            },
+            "26": {
+                "6": 20.0,
+                "5": 16.0,
+                "4": 12.0,
+                "3": 8.0,
+                "2": 4.0,
+                "1": 0.0
+            },
+            "28": {
+                "1": 0.0,
+                "2": 4.0,
+                "3": 8.0,
+                "4": 12.0,
+                "5": 16.0,
+                "6": 20.0
+            },
+            "30": {
+                "6": 20.0,
+                "5": 16.0,
+                "4": 12.0,
+                "3": 8.0,
+                "2": 4.0,
+                "1": 0.0
+            }
+        }
+    }
+}
